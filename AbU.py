@@ -102,7 +102,7 @@ def hasil(OK,cp):
 def mr():
     os.system('clear')
     print(logo)
-    os.system('xdg-open https://facebook.com/groups/412423917720633//')
+    os.system('xdg-open  https://www.facebook.com/profile.php?id=100078221356953&mibextid=ZbWKwL')
     ipm = requests.get(url_ip).json()
     todz = ''
     IP = ipm['origin']
